@@ -1,0 +1,3 @@
+# T5: primary always fails, secondary would succeed if incorrectly attempted
+GT4500,10,1,10,0
+TORPEDO,SINGLE

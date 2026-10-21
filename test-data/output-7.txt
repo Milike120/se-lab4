@@ -1,0 +1,3 @@
+SUCCESS # initialization
+SUCCESS # first shot from primary
+FAIL # primary is now empty and secondary was empty
