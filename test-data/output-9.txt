@@ -1,0 +1,2 @@
+SUCCESS # initialization
+FAIL # primary shot fails and secondary is empty

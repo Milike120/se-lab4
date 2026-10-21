@@ -1,0 +1,2 @@
+SUCCESS # initialization
+FAIL # no store can fire
