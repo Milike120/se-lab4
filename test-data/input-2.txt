@@ -1,0 +1,3 @@
+# T3: primary is empty; secondary has torpedoes
+GT4500,0,0,10,0
+TORPEDO,SINGLE

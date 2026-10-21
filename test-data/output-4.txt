@@ -1,0 +1,2 @@
+SUCCESS  # GT4500 inicializálása
+FAIL     # primary hibázik; a secondary nem kerül megpróbálásra

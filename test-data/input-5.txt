@@ -1,0 +1,3 @@
+# T6: primary succeeds and secondary always fails; ALL should still report SUCCESS
+GT4500,10,0,10,1
+TORPEDO,ALL

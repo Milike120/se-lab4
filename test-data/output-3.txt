@@ -1,0 +1,3 @@
+SUCCESS  # GT4500 inicializálása
+SUCCESS  # első SINGLE: primary
+SUCCESS  # második SINGLE: secondary üres, ezért primary

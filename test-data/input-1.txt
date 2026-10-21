@@ -1,0 +1,4 @@
+# T1-T2: primary first (success), then secondary (always fails)
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
